@@ -1,7 +1,7 @@
 // ContactScreen.js
 import React from 'react';
 import {View, Text} from 'react-native';
-import styles from '../../assets/Estilos/estilos';
+import styles from '../../assets/Estilos/estilo-geral';
 import {LinearGradient} from 'expo-linear-gradient';
 export default function ContactScreen() {
   return (

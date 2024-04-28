@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "ver-2",
+    "slug": "ver-2",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/Imagens/Config-img/logotipo-Estacio-02.svg",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/Imagens/Config-img/logotipo-Estacio-02.svg",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/Imagens/Config-img/logotipo-Estacio-02.svg",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/Imagens/Config-img/logotipo-Estacio-02.svg"
+    }
+  }
+}
