@@ -99,6 +99,7 @@ Para a criação e estruturação do backend, faz-se necessário autilização d
 | RS   | REQUISITO SUPLEMENTAR    |
 | RNE  | REGRA DE NEGÓCIO        |
 | UC   | USE CASE (CASO DE USO)   |
+| MVC  | PADRÃO MODEL-VIEW-CONTROLLER|
 
 - **Stakeholders**
 
