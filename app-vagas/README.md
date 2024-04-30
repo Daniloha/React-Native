@@ -101,6 +101,7 @@ Para a criação e estruturação do backend, faz-se necessário autilização d
 | UC   | USE CASE (CASO DE USO)   |
 | MVC  | PADRÃO MODEL-VIEW-CONTROLLER|
 | POO  | PARADIGMA DE PROGRAMAÇÃO ORIENTADA A OBJETOS |
+| POC | PARADIGMA DE PROGRAMAÇÃO ORIENTADA A COMPONENTES |
 
 - **Stakeholders**
 
