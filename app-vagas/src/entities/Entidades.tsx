@@ -199,3 +199,20 @@ export class Estudante extends Comum {
   get semestre(): string { return this._semestre; }
   set semestre(value: string) { this._semestre = value; }
 }
+
+export class Administrador extends Conta{
+  cadastrarVaga(vaga: Vaga): void {
+    this.vagas.push(vaga);
+  }
+  removerVaga (vaga: Vaga): void {
+    this.vagas = this.vagas.filter((v) => v !== vaga);
+  }
+  selecionarVaga(index: number): Vaga | undefined {
+    if (index >= 0 && index < this.vagas.length) {
+        return this.vagas[index];
+    }
+    return undefined;
+}
+}
+
+
