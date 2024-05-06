@@ -478,13 +478,13 @@ O diagrama de classes é uma ferramenta fundamental na modelagem de sistemas ori
     <figure style="margin-right: 20px;">
         <p>
             <figcaption style="text-align: center;"><b>Tela Inicial</b></figcaption>
-            <img width="auto" title="titulo da imagem" src="assets/20240430_143222_image.png" /><br>
+            <img width="50%" title="titulo da imagem" src="assets/20240430_143222_image.png" /><br>
         </p>
     </figure>
     <figure style="margin-left: 20px;">
         <p>
             <figcaption style="text-align: center;"><b>Tela de Busca</b></figcaption>
-            <img width="auto" title="titulo da imagem" src="assets/20240430_143251_image.png" /><br>
+            <img width="50%" title="titulo da imagem" src="assets/20240430_143251_image.png" /><br>
         </p>
     </figure>
 </div>
