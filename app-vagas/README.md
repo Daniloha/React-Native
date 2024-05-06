@@ -139,6 +139,9 @@ _O projeto "RH em Ação" foi desenvolvido como parte da avaliação da discipli
 | RS   | REQUISITO SUPLEMENTAR    |
 | RNE  | REGRA DE NEGÓCIO        |
 | UC   | USE CASE (CASO DE USO)   |
+| MVC  | PADRÃO MODEL-VIEW-CONTROLLER|
+| POO  | PARADIGMA DE PROGRAMAÇÃO ORIENTADA A OBJETOS |
+| POC | PARADIGMA DE PROGRAMAÇÃO ORIENTADA A COMPONENTES |
 
 ---
 
