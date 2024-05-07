@@ -92,7 +92,7 @@ _O projeto "RH em Ação" foi desenvolvido como parte da avaliação da discipli
 
 1. Aplicativo que funcione como um link entre empresas em busca de estudantes/profissionais qualificados e os alunos da faculdade Estácio ou qualquer pessoa que queira se candidatar as vagas.
 
-> [!NOTA]
+> [!IMPORTANT]
 > Mais informações em [Sobre](#sobre).
 
 #### Tecnologias Utilizadas 🚧
